@@ -1,1 +1,1 @@
-# John-Harshith-DSA-Assignment-Solution
+# John Harshith DSA Assignment Solution
